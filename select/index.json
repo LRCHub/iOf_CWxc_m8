@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "SCAPEGOAT",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2025-12-13T14:52:39.702935Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Scapegoat",
+      "artist": "Chumbawamba",
+      "has_synced": true,
+      "path": "select/01_Scapegoat_Chumbawamba.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Scapegoat",
+      "artist": "Fear Factory",
+      "has_synced": true,
+      "path": "select/02_Scapegoat_Fear_Factory.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Scapegoat - Pigfuck Mix",
+      "artist": "Fear Factory",
+      "has_synced": true,
+      "path": "select/03_Scapegoat_-_Pigfuck_Mix_Fear_Factory.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Scapegoat",
+      "artist": "Guano Apes",
+      "has_synced": true,
+      "path": "select/04_Scapegoat_Guano_Apes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Year of the Scapegoat",
+      "artist": "Dagoba",
+      "has_synced": false,
+      "path": "select/05_Year_of_the_Scapegoat_Dagoba.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Scapegoat (Album Version)",
+      "artist": "Fear Factory",
+      "has_synced": true,
+      "path": "select/06_Scapegoat_(Album_Version)_Fear_Factory.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Scapegoat",
+      "artist": "Tiamat",
+      "has_synced": true,
+      "path": "select/07_The_Scapegoat_Tiamat.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Scapegoat",
+      "artist": "Sidhu Moose Wala",
+      "has_synced": true,
+      "path": "select/08_Scapegoat_Sidhu_Moose_Wala.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Scapegoat",
+      "artist": "Sidhu Moose Wala",
+      "has_synced": true,
+      "path": "select/09_Scapegoat_Sidhu_Moose_Wala.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "scaPEGoat",
+      "artist": "SawanoHiroyuki[nZk] feat. Yosh",
+      "has_synced": true,
+      "path": "select/10_scaPEGoat_SawanoHiroyuki[nZk]_feat._Yosh.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "scaPEGoat",
+      "artist": "SawanoHiroyuki[nZk]:Yosh",
+      "has_synced": true,
+      "path": "select/11_scaPEGoat_SawanoHiroyuki[nZk]_Yosh.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Scapegoat",
+      "artist": "Fear Factory",
+      "has_synced": true,
+      "path": "select/12_Scapegoat_Fear_Factory.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "no promises (feat. Scapegoat)",
+      "artist": "Powfu feat. Scapegoat",
+      "has_synced": true,
+      "path": "select/13_no_promises_(feat._Scapegoat)_Powfu_feat._Scapegoat.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Scapegoat",
+      "artist": "Sevendust",
+      "has_synced": false,
+      "path": "select/14_Scapegoat_Sevendust.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Scapegoat",
+      "artist": "Atmosphere",
+      "has_synced": false,
+      "path": "select/15_Scapegoat_Atmosphere.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Scapegoat",
+      "artist": "The Agony Scene",
+      "has_synced": true,
+      "path": "select/16_Scapegoat_The_Agony_Scene.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Scapegoat Soup",
+      "artist": "New Bomb Turks",
+      "has_synced": false,
+      "path": "select/17_Scapegoat_Soup_New_Bomb_Turks.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Scapegoat (Pigfuck Mix)",
+      "artist": "Fear Factory",
+      "has_synced": true,
+      "path": "select/18_Scapegoat_(Pigfuck_Mix)_Fear_Factory.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SCAPEGOAT",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_SCAPEGOAT_DUSTCELL.txt"
+    }
+  ]
+}
